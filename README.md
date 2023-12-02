@@ -1,2 +1,2 @@
 # PS12-rekahodo
-practice repo
+practice repo to connect own projects to GitHub
